@@ -1,0 +1,2 @@
+this file overwriting & creating using 'w' mode in python. 
+Have a nice night!

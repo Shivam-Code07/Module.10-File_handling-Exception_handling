@@ -1,0 +1,4 @@
+This file is created with the help of 'x' mode in python
+And also we are writing with help of 'w' modetest content
+This content has been written usind 'a' mode.
+'a' mode is used to add new content at the end of file.Good bye

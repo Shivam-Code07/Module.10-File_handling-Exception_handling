@@ -1,0 +1,2 @@
+This file is created with the help of 'x' mode in python
+And also we are writing with help of 'w' mode
