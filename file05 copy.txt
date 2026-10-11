@@ -1,0 +1,2 @@
+This file has been created usind 'a' mode.
+'a' mode create file if not already existing.Good bye

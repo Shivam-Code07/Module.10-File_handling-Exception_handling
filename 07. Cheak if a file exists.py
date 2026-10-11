@@ -18,7 +18,7 @@
 # os.path.exists()
 from pathlib import Path
 
-file_name = Path("/Users/bittu/Python/Module 10 (File handling  Exception handling)/learning_1.txt")
+file_name = Path("/Users/bittu/Python/Module 10 (File handling  Exception handling)/learning_2.txt")
 
 if file_name.exists():
     print("File exist")
